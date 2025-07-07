@@ -2,7 +2,7 @@
 # 🌐 Projet Réseau TechCampus
 
 ## 🎓 Présenté par :
-- MVELE NYOGOG Silvain Nell Blaise  
+- MVELE NYOGOG Silvan Nell Blaise  
 **Année académique** : 2024-2025  
 
 ---
